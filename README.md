@@ -10,6 +10,6 @@ I Solved 10 Real Industrial in Spotify Songs App Using MySQL
 5) Find the all Duplicate Rows In Table 
 6) Top 5 Platform with Most Songs In The Dataset 
 7) Average Songs Played by Artist name 
-8) Songs Released After 2020 With Popular Over 80
+8) Songs Released After 2020 With Popular Top 80
 9) Crete New Column Hr_played And Songs Ms_played Convert to Hours And Update Hr_played 
 10) Top 10 Most Played Album Names 
